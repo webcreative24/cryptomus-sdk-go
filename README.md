@@ -4,7 +4,7 @@ Cryptomus SDK Go is a Go library for interacting with the Cryptomus API. You can
 
 ## Features
 
-- Payments Integration (Create Invoice, Get Invoice, Get Invoices, Cancel Invoice, etc.)
+- Payments Integration (Create Invoice, Get Invoice, Get Invoices, etc.)
 - Payout Integration (Create Payout, Get Payout, Get Payouts, Cancel Payout, etc.)
 - Recurring Payment Integration (Create Recurring Payment, Get Recurring Payment, Get Recurring, Cancel Recurring Payment, etc.)
 - Webhooks Integration (Verify Webhook, Resend Webhook)
